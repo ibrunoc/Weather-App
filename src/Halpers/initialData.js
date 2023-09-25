@@ -1,7 +1,7 @@
 /* eslint-disable linebreak-style */
 const initialData = {
   location: {
-    name: 'Insira a cidade',
+    name: 'Insira a Cidade',
     region: 'Estado',
     country: 'País',
   },
