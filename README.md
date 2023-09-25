@@ -17,4 +17,4 @@ Esse é um projeto simples, onde eu criei um aplicativo de previsão do tempo.
   <h2><a href="https://weather-app.vercel.app/">LINK DO PROJETO</a></h2>
 </div>
 
-![Site](image.png)
+![image](https://github.com/ibrunoc/Weather-App/assets/68878579/95e13434-fcc6-4d33-a184-4498d91919ee)
