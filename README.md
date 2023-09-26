@@ -9,6 +9,7 @@ Esse é um projeto simples, onde eu criei um aplicativo de previsão do tempo.
 
 - [ReactJS](https://legacy.reactjs.org/docs/getting-started.html)
 - [TailwindCss](https://tailwindcss.com/)
+- [Eslint](https://eslint.org/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [API](https://www.weatherapi.com/)
 - [VS Code](https://code.visualstudio.com/).
