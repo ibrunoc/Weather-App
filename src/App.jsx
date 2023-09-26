@@ -10,9 +10,11 @@ function App() {
   const handleSubmit = (event) => {
     event.preventDefault();
 
-    fetchData(city).then((response) => {
-      setData(response);
-    });
+    if (city.trim() !== '') {
+      fetchData(city).then((response) => {
+        setData(response);
+      });
+    }
   };
 
   return (
@@ -29,7 +31,7 @@ function App() {
         />
         <button
           type="submit"
-          className="bg-rose-700 p-3 rounded-lg ml-3 text-white font-bold"
+          className="p-3 border-white-700 rounded-lg ml-3 text-white font-bold bg-rose-700 hover:bg-[#1e1e1e]"
         >
           Pesquisar
         </button>

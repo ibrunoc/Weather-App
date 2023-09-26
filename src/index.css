@@ -1,4 +1,9 @@
-body{ background-color: #2e2e2e; }
+body{ 
+    background-image: url(./Image/Background.webp); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 
 @tailwind base;
 @tailwind components;
